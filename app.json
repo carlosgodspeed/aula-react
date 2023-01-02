@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "aula-react",
+    "slug": "aula-react",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
